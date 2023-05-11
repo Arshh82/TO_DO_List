@@ -1,0 +1,35 @@
+#ad
+{
+color: blueviolet;
+position: fixed;
+}
+#add
+{
+  display: flex;
+  justify-content: center;
+  margin-top: 1px;
+  }
+  #data
+  {
+    float: inherit;
+  }
+  .Head
+  {
+    display: flex;
+    justify-content: center;
+    background-color: SlateBlue;
+    color:white;
+    height:50px;
+  }
+  #in
+  {
+    width:700px;
+  }
+  #tskdata{
+  
+    align-items:center;
+  }
+  #data{
+    font-size:2px;
+    background-color:lightyellow;
+  }
